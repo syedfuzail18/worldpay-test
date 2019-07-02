@@ -1,0 +1,258 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:2:1-73:12
+MERGED from [:worldpayLibrary] C:\Users\Syed Fuzail\Desktop\Testing\worldpayLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\11e9859ea5a2b83b972eb0395b286466\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3f4b6a22a32c3021ba520806753f075f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d995e49ce1199ebb1e7d299dd05280dc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\68e1c024d0d97c4659a20d15fee2af7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b678c9935f21dcb3906bfbf9564016b4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e024a347b5ad9fc662264ca6c21de92e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\64a2a234de44beaa1bb62e000523ddae\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\84508c9dab1ac0a563b716efb328abb0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\54ce1842fe918e5b5bbf9c05fd90d830\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9ac015b387734e5aec60e6cbad743cbc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0b6821a21b6c3d8d1fc0ee8721463e05\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\cf58d23eef5eea783b3142041bcbc796\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\669647d4e23d615a629fd74321066882\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b42d9228a3b45ce2c59f94a33770fc4e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c5f971100ce04c450151e1a577de4df2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6d6b44abd225562e2b897c5db09e0778\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c8882d7e82371617623e97718cf7852e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4dcdc96de54774db4db37b4a63acaa26\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fb4b51b1accb160574ac13c079459bf1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07375be1ca77509b2c9560f7546e7292\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c41cfaff250f8a399f5d5e0a169acd42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\639d0fd50fc0fe0009501f591aa57c73\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\5e4b225f7628540ca29a139bbf2af2fc\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ec786f3a69dd83ef7468e0711f7785ff\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9ae92a7a59ababdb25614b4d6825492a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\269ba352e61198b9a8dfb930464da119\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\561c561f72bd0626196fda907221e3f1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\43c9db64d2a4a7e60e8060c00bc53086\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:2:1-73:12
+INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:2:1-73:12
+	package
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:3:5-36
+		INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:6:5-30
+		INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:4:5-63
+	android:versionCode
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:5:5-28
+		INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:10:5-67
+MERGED from [:worldpayLibrary] C:\Users\Syed Fuzail\Desktop\Testing\worldpayLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+MERGED from [:worldpayLibrary] C:\Users\Syed Fuzail\Desktop\Testing\worldpayLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:12:5-74
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:12:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:13:22-77
+application
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:15:5-71:19
+MERGED from [:worldpayLibrary] C:\Users\Syed Fuzail\Desktop\Testing\worldpayLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-17:43
+MERGED from [:worldpayLibrary] C:\Users\Syed Fuzail\Desktop\Testing\worldpayLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:5-17:43
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c8882d7e82371617623e97718cf7852e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c8882d7e82371617623e97718cf7852e\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4dcdc96de54774db4db37b4a63acaa26\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4dcdc96de54774db4db37b4a63acaa26\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c8882d7e82371617623e97718cf7852e\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:18:9-41
+	android:fullBackupContent
+		ADDED from [:worldpayLibrary] C:\Users\Syed Fuzail\Desktop\Testing\worldpayLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:9-48
+	android:icon
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:19:9-40
+activity#com.example.worldfood.SplashScreenActivity
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:20:9-30:20
+	android:screenOrientation
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:22:13-65
+	android:noHistory
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:23:13-37
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:21:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:28:27-74
+activity#com.example.worldfood.menu.MenuActivity
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:31:9-35:20
+	android:screenOrientation
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:34:13-49
+	android:label
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:33:13-57
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:32:13-46
+activity#com.example.worldfood.order.OrderDetailsActivity
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:36:9-40:20
+	android:screenOrientation
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:39:13-49
+	android:label
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:38:13-59
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:37:13-55
+activity#com.example.worldfood.order.OrderConfirmationActivity
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:41:9-45:20
+	android:screenOrientation
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:44:13-49
+	android:label
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:43:13-59
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:42:13-60
+activity#com.worldpay.SaveCardActivity
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:46:9-48:44
+	android:label
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:48:13-41
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:47:13-57
+activity#com.worldpay.SaveAlternativePaymentMethodActivity
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:49:9-51:43
+	android:label
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:51:13-40
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:50:13-77
+activity#com.example.worldfood.order.ThreeDsOrderActivity
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:52:9-56:20
+	android:label
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:54:13-34
+	android:launchMode
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:55:13-43
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:53:13-55
+activity#com.example.worldfood.order.PayPalOrderActivity
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:57:9-61:20
+	android:label
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:59:13-34
+	android:launchMode
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:60:13-43
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:58:13-54
+activity#com.example.worldfood.settings.SettingsActivity
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:62:9-70:20
+	android:screenOrientation
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:65:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:64:13-60
+	android:theme
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:66:13-49
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:63:13-54
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:67:13-69:53
+	android:value
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:69:17-51
+	android:name
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml:68:17-63
+uses-sdk
+INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+MERGED from [:worldpayLibrary] C:\Users\Syed Fuzail\Desktop\Testing\worldpayLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:worldpayLibrary] C:\Users\Syed Fuzail\Desktop\Testing\worldpayLibrary\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\11e9859ea5a2b83b972eb0395b286466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\11e9859ea5a2b83b972eb0395b286466\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3f4b6a22a32c3021ba520806753f075f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\3f4b6a22a32c3021ba520806753f075f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d995e49ce1199ebb1e7d299dd05280dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\d995e49ce1199ebb1e7d299dd05280dc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\68e1c024d0d97c4659a20d15fee2af7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\68e1c024d0d97c4659a20d15fee2af7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b678c9935f21dcb3906bfbf9564016b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\b678c9935f21dcb3906bfbf9564016b4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e024a347b5ad9fc662264ca6c21de92e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\e024a347b5ad9fc662264ca6c21de92e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\64a2a234de44beaa1bb62e000523ddae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\64a2a234de44beaa1bb62e000523ddae\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\84508c9dab1ac0a563b716efb328abb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\84508c9dab1ac0a563b716efb328abb0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\54ce1842fe918e5b5bbf9c05fd90d830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\54ce1842fe918e5b5bbf9c05fd90d830\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9ac015b387734e5aec60e6cbad743cbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\9ac015b387734e5aec60e6cbad743cbc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0b6821a21b6c3d8d1fc0ee8721463e05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\0b6821a21b6c3d8d1fc0ee8721463e05\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\cf58d23eef5eea783b3142041bcbc796\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\cf58d23eef5eea783b3142041bcbc796\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\669647d4e23d615a629fd74321066882\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\669647d4e23d615a629fd74321066882\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b42d9228a3b45ce2c59f94a33770fc4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\b42d9228a3b45ce2c59f94a33770fc4e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c5f971100ce04c450151e1a577de4df2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\c5f971100ce04c450151e1a577de4df2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6d6b44abd225562e2b897c5db09e0778\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\6d6b44abd225562e2b897c5db09e0778\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c8882d7e82371617623e97718cf7852e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\c8882d7e82371617623e97718cf7852e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4dcdc96de54774db4db37b4a63acaa26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\4dcdc96de54774db4db37b4a63acaa26\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fb4b51b1accb160574ac13c079459bf1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\fb4b51b1accb160574ac13c079459bf1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07375be1ca77509b2c9560f7546e7292\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\07375be1ca77509b2c9560f7546e7292\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c41cfaff250f8a399f5d5e0a169acd42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c41cfaff250f8a399f5d5e0a169acd42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\639d0fd50fc0fe0009501f591aa57c73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\639d0fd50fc0fe0009501f591aa57c73\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\5e4b225f7628540ca29a139bbf2af2fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\5e4b225f7628540ca29a139bbf2af2fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ec786f3a69dd83ef7468e0711f7785ff\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\ec786f3a69dd83ef7468e0711f7785ff\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9ae92a7a59ababdb25614b4d6825492a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\9ae92a7a59ababdb25614b4d6825492a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\269ba352e61198b9a8dfb930464da119\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\269ba352e61198b9a8dfb930464da119\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\561c561f72bd0626196fda907221e3f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\561c561f72bd0626196fda907221e3f1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\43c9db64d2a4a7e60e8060c00bc53086\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Syed Fuzail\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\43c9db64d2a4a7e60e8060c00bc53086\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Syed Fuzail\Desktop\Testing\worldFood\src\main\AndroidManifest.xml
